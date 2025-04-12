@@ -2,8 +2,6 @@
 
 **EmbedSito** is a modern, ad-free Windows 10+ app for streaming your favorite movies and TV shows in high quality. With support for multiple audio languages and subtitles, it's the ultimate tool for an immersive multilingual viewing experience.
 
-![EmbedSito Logo](https://yourdomain.com/path-to-logo.png)
-
 ---
 
 ## 🚀 Features
@@ -40,10 +38,6 @@
 Watch EmbedSito in action:
 
 [![Watch Demo](https://img.youtube.com/vi/sdCSrRvj6TM/0.jpg)](https://www.youtube.com/watch?v=sdCSrRvj6TM)
-
-Or view inline:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sdCSrRvj6TM" frameborder="0" allowfullscreen></iframe>
 
 ---
 
