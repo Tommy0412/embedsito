@@ -29,7 +29,6 @@
 ---
 
 ## 📸 Screenshots
-| ![Home](https://yourdomain.com/screenshots/home.png)
 
 ---
 
